@@ -21,8 +21,6 @@ def getwiki(s):
                    wikitext2=wikitext2+x+'.'
             else:
                 break
-        #wikitext2=re.sub('\([^()]*\)', '', wikitext2)
-        #wikitext2=re.sub('\{[^\{\}]*\}', '', wikitext2)
         return wikitext2
     # Обрабатываем исключение, которое мог вернуть модуль wikipedia при запросе
     # except Exception as e:
