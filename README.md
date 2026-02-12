@@ -2,4 +2,6 @@
 
 ## Wikipedia Telegram-bot
 
-В данном коде представлен **Telegram-бот**, который достает информацию о термине из энциклопедии **Википедия**. Для использования этого кода необходимо в самом **Telegram** найти бота **@BotFather** и создать свой _API-ключ_ для дальнейшей работы с кодом.
+[![ru](https://img.shields.io/badge/README_на_русском-2A2C39?style=for-the-badge&logo=github&logoColor=white)](README.ru.md)
+
+In this code, a **Telegram bot** is presented that retrieves information about a term from the **Wikipedia** encyclopedia. To use this code, you need to find the **@BotFather** bot in **Telegram** itself and create your own _API key_ for further work with the code.
